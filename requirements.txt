@@ -5,3 +5,5 @@ pytesseract
 python-dotenv
 openai
 fpdf2
+reportlab
+pillow
